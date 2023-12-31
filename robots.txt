@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jamintotoasd.intellamech.com/sitemap.xml
